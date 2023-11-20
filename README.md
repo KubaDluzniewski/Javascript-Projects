@@ -1,3 +1,41 @@
+<style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f4f4f4;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+
+    .project-list {
+      list-style-type: none;
+      padding: 0;
+    }
+
+    .project-item {
+      display: flex;
+      align-items: center;
+      margin-bottom: 10px;
+      background-color: #fff;
+      padding: 10px;
+      border-radius: 5px;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+      width: 300px;
+    }
+
+    .project-item.completed {
+      background-color: #d3f3cd;
+    }
+
+    .project-item input {
+      margin-right: 10px;
+    }
+  </style>
+
+
 <ul class="project-list">
     <li class="project-item completed">
       <input type="checkbox" checked> Color Flipper
