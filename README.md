@@ -12,7 +12,6 @@
 - [ ] **Video Background**
 - [ ] **Navigation bar on scroll**
 - [ ] **Countdown clock**
-- [ ] **Grocery list**
 - [ ] **Image slider**
 - [ ] **Simon Game**
 - [ ] **Platformer Game**
