@@ -2,7 +2,7 @@
 
 - [x] **Color Flipper**
   - 20.11.2023
-- [ ] **Counter**
+- [x] **Counter**
 - [ ] **Review Carousel**
 - [ ] **Responsive Navbar**
 - [ ] **Sidebar**
