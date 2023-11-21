@@ -1,9 +1,7 @@
 # Project List
 
 - [x] **Color Flipper**
-  - 20.11.2023
 - [x] **Counter**
-  - 21.11.2023
 - [ ] **Review Carousel**
 - [ ] **Responsive Navbar**
 - [ ] **Sidebar**
